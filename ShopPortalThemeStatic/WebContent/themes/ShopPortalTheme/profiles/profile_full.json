@@ -1,5 +1,6 @@
-﻿{
+п»ї{
    "moduleIDs": [
+   	  "shop_portal_theme_85_dynamic_spots",
       "wp_theme_portal_80",
       "wp_portlet_css",
       "wp_one_ui",
@@ -42,7 +43,7 @@
    ],
    "titles": [
       {
-         "value": "كامل",
+         "value": "ЩѓШ§Щ…Щ„",
          "lang": "ar"
       },
       {
@@ -50,7 +51,7 @@
          "lang": "ca"
       },
       {
-         "value": "Úplná",
+         "value": "ГљplnГЎ",
          "lang": "cs"
       },
       {
@@ -58,11 +59,11 @@
          "lang": "da"
       },
       {
-         "value": "Vollständig",
+         "value": "VollstГ¤ndig",
          "lang": "de"
       },
       {
-         "value": "Πλήρες",
+         "value": "О О»О®ПЃОµП‚",
          "lang": "el"
       },
       {
@@ -74,7 +75,7 @@
          "lang": "es"
       },
       {
-         "value": "Täysi",
+         "value": "TГ¤ysi",
          "lang": "fi"
       },
       {
@@ -82,7 +83,7 @@
          "lang": "fr"
       },
       {
-         "value": "מלא",
+         "value": "ЧћЧњЧђ",
          "lang": "iw"
       },
       {
@@ -98,15 +99,15 @@
          "lang": "it"
       },
       {
-         "value": "すべて",
+         "value": "гЃ™гЃ№гЃ¦",
          "lang": "ja"
       },
       {
-         "value": "Толық",
+         "value": "РўРѕР»С‹Т›",
          "lang": "kk"
       },
       {
-         "value": "마감",
+         "value": "л§€к°ђ",
          "lang": "ko"
       },
       {
@@ -118,7 +119,7 @@
          "lang": "no"
       },
       {
-         "value": "Pełna",
+         "value": "PeЕ‚na",
          "lang": "pl"
       },
       {
@@ -134,11 +135,11 @@
          "lang": "ro"
       },
       {
-         "value": "Полный",
+         "value": "РџРѕР»РЅС‹Р№",
          "lang": "ru"
       },
       {
-         "value": "Úplný",
+         "value": "ГљplnГЅ",
          "lang": "sk"
       },
       {
@@ -150,7 +151,7 @@
          "lang": "sv"
       },
       {
-         "value": "สมบูรณ์",
+         "value": "аёЄаёЎаёљаё№аёЈаё“а№Њ",
          "lang": "th"
       },
       {
@@ -158,41 +159,41 @@
          "lang": "tr"
       },
       {
-         "value": "Повний",
+         "value": "РџРѕРІРЅРёР№",
          "lang": "uk"
       },
       {
-         "value": "完整",
+         "value": "е®Њж•ґ",
          "lang": "zh"
       },
       {
-         "value": "完整",
+         "value": "е®Њж•ґ",
          "lang": "zh_TW"
       }
    ],
    "descriptions": [
       {
-         "value": "ملف المواصفات هذا يحتوي على مجموعة كاملة من وحدات البرامج للنسق الرئيسي متضمنا وحدات البرامج المطلوبة للمستخدمين لتغيير الصفحات.",
+         "value": "Щ…Щ„ЩЃ Ш§Щ„Щ…Щ€Ш§ШµЩЃШ§ШЄ Щ‡Ш°Ш§ ЩЉШ­ШЄЩ€ЩЉ Ш№Щ„Щ‰ Щ…Ш¬Щ…Щ€Ш№Ш© ЩѓШ§Щ…Щ„Ш© Щ…Щ† Щ€Ш­ШЇШ§ШЄ Ш§Щ„ШЁШ±Ш§Щ…Ш¬ Щ„Щ„Щ†ШіЩ‚ Ш§Щ„Ш±Ш¦ЩЉШіЩЉ Щ…ШЄШ¶Щ…Щ†Ш§ Щ€Ш­ШЇШ§ШЄ Ш§Щ„ШЁШ±Ш§Щ…Ш¬ Ш§Щ„Щ…Ш·Щ„Щ€ШЁШ© Щ„Щ„Щ…ШіШЄШ®ШЇЩ…ЩЉЩ† Щ„ШЄШєЩЉЩЉШ± Ш§Щ„ШµЩЃШ­Ш§ШЄ.",
          "lang": "ar"
       },
       {
-         "value": "Aquest perfil inclou un conjunt complet de mòduls per al tema incloent-hi els mòduls necessaris perquè els usuaris canviïn les pàgines.",
+         "value": "Aquest perfil inclou un conjunt complet de mГІduls per al tema incloent-hi els mГІduls necessaris perquГЁ els usuaris canviГЇn les pГ gines.",
          "lang": "ca"
       },
       {
-         "value": "Tento profil má úplnou sadu modulů pro motiv, včetně modulů, které uživatelé potřebují ke změnám stránek.",
+         "value": "Tento profil mГЎ Гєplnou sadu modulЕЇ pro motiv, vДЌetnД› modulЕЇ, kterГ© uЕѕivatelГ© potЕ™ebujГ­ ke zmД›nГЎm strГЎnek.",
          "lang": "cs"
       },
       {
-         "value": "Denne profil har et fuldt sæt moduler til temaet, herunder moduler som brugerne skal anvende for at ændre sider.",
+         "value": "Denne profil har et fuldt sГ¦t moduler til temaet, herunder moduler som brugerne skal anvende for at Г¦ndre sider.",
          "lang": "da"
       },
       {
-         "value": "Dieses Profil enthält eine vollständige Gruppe von Modulen für das Motiv, einschließlich der Module, die Benutzer zum Ändern von Seiten benötigen.",
+         "value": "Dieses Profil enthГ¤lt eine vollstГ¤ndige Gruppe von Modulen fГјr das Motiv, einschlieГџlich der Module, die Benutzer zum Г„ndern von Seiten benГ¶tigen.",
          "lang": "de"
       },
       {
-         "value": "Αυτό το προφίλ περιέχει ένα πλήρες σύνολο λειτουργικών μονάδων για το θέμα, συμπεριλαμβανομένων των λειτουργικών μονάδων που απαιτούνται για την αλλαγή σελίδων από τους χρήστες.",
+         "value": "О‘П…П„ПЊ П„Ої ПЂПЃОїП†ОЇО» ПЂОµПЃО№О­П‡ОµО№ О­ОЅО± ПЂО»О®ПЃОµП‚ ПѓПЌОЅОїО»Ої О»ОµО№П„ОїП…ПЃОіО№ОєПЋОЅ ОјОїОЅО¬ОґП‰ОЅ ОіО№О± П„Ої ОёО­ОјО±, ПѓП…ОјПЂОµПЃО№О»О±ОјОІО±ОЅОїОјО­ОЅП‰ОЅ П„П‰ОЅ О»ОµО№П„ОїП…ПЃОіО№ОєПЋОЅ ОјОїОЅО¬ОґП‰ОЅ ПЂОїП… О±ПЂО±О№П„ОїПЌОЅП„О±О№ ОіО№О± П„О·ОЅ О±О»О»О±ОіО® ПѓОµО»ОЇОґП‰ОЅ О±ПЂПЊ П„ОїП…П‚ П‡ПЃО®ПѓП„ОµП‚.",
          "lang": "el"
       },
       {
@@ -200,27 +201,27 @@
          "lang": "en"
       },
       {
-         "value": "Este perfil tiene un conjunto de módulos completo para el tema incluidos los módulos necesarios para que los usuarios cambien las páginas.",
+         "value": "Este perfil tiene un conjunto de mГіdulos completo para el tema incluidos los mГіdulos necesarios para que los usuarios cambien las pГЎginas.",
          "lang": "es"
       },
       {
-         "value": "Tässä profiilissa on täysi teeman moduulijoukko, johon kuuluvat moduulit, joiden avulla käyttäjät vaihtavat sivua.",
+         "value": "TГ¤ssГ¤ profiilissa on tГ¤ysi teeman moduulijoukko, johon kuuluvat moduulit, joiden avulla kГ¤yttГ¤jГ¤t vaihtavat sivua.",
          "lang": "fi"
       },
       {
-         "value": "Ce profil possède un ensemble complet de modules pour le thème, incluant les modèles requis par les utilisateurs pour changer les pages.",
+         "value": "Ce profil possГЁde un ensemble complet de modules pour le thГЁme, incluant les modГЁles requis par les utilisateurs pour changer les pages.",
          "lang": "fr"
       },
       {
-         "value": "פרופיל זה כולל מערך שלם של מודולים עבור הערכה, כולל מודולים הדרושים למשתמשים לצורך שינוי דפים.",
+         "value": "Ч¤ЧЁЧ•Ч¤Ч™Чњ Ч–Ч” Ч›Ч•ЧњЧњ ЧћЧўЧЁЧљ Ч©ЧњЧќ Ч©Чњ ЧћЧ•Ч“Ч•ЧњЧ™Чќ ЧўЧ‘Ч•ЧЁ Ч”ЧўЧЁЧ›Ч”, Ч›Ч•ЧњЧњ ЧћЧ•Ч“Ч•ЧњЧ™Чќ Ч”Ч“ЧЁЧ•Ч©Ч™Чќ ЧњЧћЧ©ЧЄЧћЧ©Ч™Чќ ЧњЧ¦Ч•ЧЁЧљ Ч©Ч™Ч Ч•Ч™ Ч“Ч¤Ч™Чќ.",
          "lang": "iw"
       },
       {
-         "value": "Ovaj profil ima puni skup modula za temu, uključujući module potrebne korisnicima za mijenjanje stranica.",
+         "value": "Ovaj profil ima puni skup modula za temu, ukljuДЌujuД‡i module potrebne korisnicima za mijenjanje stranica.",
          "lang": "hr"
       },
       {
-         "value": "Ez a profil a téma teljes modulkészletét tartalmazza, azokat a modulokat is beleértve, amelyekre a felhasználóknak az oldalak módosításához szükségük van.",
+         "value": "Ez a profil a tГ©ma teljes modulkГ©szletГ©t tartalmazza, azokat a modulokat is beleГ©rtve, amelyekre a felhasznГЎlГіknak az oldalak mГіdosГ­tГЎsГЎhoz szГјksГ©gГјk van.",
          "lang": "hu"
       },
       {
@@ -228,15 +229,15 @@
          "lang": "it"
       },
       {
-         "value": "このプロファイルにはテーマに関するすべてのモジュールのセットがあり、ユーザーがページを変更するために必要なモジュールも含まれています。",
+         "value": "гЃ“гЃ®гѓ—гѓ­гѓ•г‚Ўг‚¤гѓ«гЃ«гЃЇгѓ†гѓјгѓћгЃ«й–ўгЃ™г‚‹гЃ™гЃ№гЃ¦гЃ®гѓўг‚ёгѓҐгѓјгѓ«гЃ®г‚»гѓѓгѓ€гЃЊгЃ‚г‚ЉгЂЃгѓ¦гѓјг‚¶гѓјгЃЊгѓљгѓјг‚ёг‚’е¤‰ж›ґгЃ™г‚‹гЃџг‚ЃгЃ«еї…и¦ЃгЃЄгѓўг‚ёгѓҐгѓјгѓ«г‚‚еђ«гЃѕг‚ЊгЃ¦гЃ„гЃѕгЃ™гЂ‚",
          "lang": "ja"
       },
       {
-         "value": "Осы профайлда беттерді өзгерту үшін пайдаланушыларға қажет модульдерді қамтитын тақырыпқа арналған модульдердің толық жиыны бар.",
+         "value": "РћСЃС‹ РїСЂРѕС„Р°Р№Р»РґР° Р±РµС‚С‚РµСЂРґС– У©Р·РіРµСЂС‚Сѓ ТЇС€С–РЅ РїР°Р№РґР°Р»Р°РЅСѓС€С‹Р»Р°СЂТ“Р° Т›Р°Р¶РµС‚ РјРѕРґСѓР»СЊРґРµСЂРґС– Т›Р°РјС‚РёС‚С‹РЅ С‚Р°Т›С‹СЂС‹РїТ›Р° Р°СЂРЅР°Р»Т“Р°РЅ РјРѕРґСѓР»СЊРґРµСЂРґС–ТЈ С‚РѕР»С‹Т› Р¶РёС‹РЅС‹ Р±Р°СЂ.",
          "lang": "kk"
       },
       {
-         "value": "이 프로파일에는 사용자가 페이지를 변경하는 데 필요한 모듈을 비롯하여 테마의 전체 모듈 세트가 있습니다.",
+         "value": "мќґ н”„лЎњнЊЊмќјм—ђлЉ” м‚¬мљ©мћђк°Ђ нЋ�мќґм§ЂлҐј ліЂкІЅн•�лЉ” лЌ° н•„мљ”н•њ лЄЁл“€мќ„ л№„лЎЇн•�м—¬ н…Њл§€мќ� м „мІґ лЄЁл“€ м„ёнЉёк°Ђ мћ€мЉµл‹€л‹¤.",
          "lang": "ko"
       },
       {
@@ -248,55 +249,55 @@
          "lang": "no"
       },
       {
-         "value": "Ten profil zawiera pełny zestaw modułów kompozycji, w tym moduły służące użytkownikom do modyfikowania stron.",
+         "value": "Ten profil zawiera peЕ‚ny zestaw moduЕ‚Гіw kompozycji, w tym moduЕ‚y sЕ‚uЕјД…ce uЕјytkownikom do modyfikowania stron.",
          "lang": "pl"
       },
       {
-         "value": "Este perfil tem um conjunto completo de módulos para o tema, incluindo os módulos necessários para que os utilizadores alterem páginas.",
+         "value": "Este perfil tem um conjunto completo de mГіdulos para o tema, incluindo os mГіdulos necessГЎrios para que os utilizadores alterem pГЎginas.",
          "lang": "pt"
       },
       {
-         "value": "Esse perfil tem um conjunto completo de módulos para o tema, incluindo os módulos necessários para os usuários alterarem as páginas.",
+         "value": "Esse perfil tem um conjunto completo de mГіdulos para o tema, incluindo os mГіdulos necessГЎrios para os usuГЎrios alterarem as pГЎginas.",
          "lang": "pt_BR"
       },
       {
-         "value": "Acest profil are set complet de module pentru temă, inclusiv module necesitate de utilizatori pentru a modifica pagini.",
+         "value": "Acest profil are set complet de module pentru temДѓ, inclusiv module necesitate de utilizatori pentru a modifica pagini.",
          "lang": "ro"
       },
       {
-         "value": "Этот профайл содержит полный набор модулей для темы, включая модули, с помощью которых пользователи могут внести изменения в страницы.",
+         "value": "Р­С‚РѕС‚ РїСЂРѕС„Р°Р№Р» СЃРѕРґРµСЂР¶РёС‚ РїРѕР»РЅС‹Р№ РЅР°Р±РѕСЂ РјРѕРґСѓР»РµР№ РґР»СЏ С‚РµРјС‹, РІРєР»СЋС‡Р°СЏ РјРѕРґСѓР»Рё, СЃ РїРѕРјРѕС‰СЊСЋ РєРѕС‚РѕСЂС‹С… РїРѕР»СЊР·РѕРІР°С‚РµР»Рё РјРѕРіСѓС‚ РІРЅРµСЃС‚Рё РёР·РјРµРЅРµРЅРёСЏ РІ СЃС‚СЂР°РЅРёС†С‹.",
          "lang": "ru"
       },
       {
-         "value": "Tento profil má úplnú množinu modulov pre tému vrátane modulov, ktoré potrebujú užívateľa pre zmenu stránok.",
+         "value": "Tento profil mГЎ ГєplnГє mnoЕѕinu modulov pre tГ©mu vrГЎtane modulov, ktorГ© potrebujГє uЕѕГ­vateДѕa pre zmenu strГЎnok.",
          "lang": "sk"
       },
       {
-         "value": "Ta profil vsebuje celoten nabor modulov za teme, vključno z moduli, ki so potrebni, da lahko uporabniki spreminjajo strani.",
+         "value": "Ta profil vsebuje celoten nabor modulov za teme, vkljuДЌno z moduli, ki so potrebni, da lahko uporabniki spreminjajo strani.",
          "lang": "sl"
       },
       {
-         "value": "Profilen har en fullständig uppsättning moduler för temat, inklusive moduler som krävs för att användare ska kunna ändra sidor.",
+         "value": "Profilen har en fullstГ¤ndig uppsГ¤ttning moduler fГ¶r temat, inklusive moduler som krГ¤vs fГ¶r att anvГ¤ndare ska kunna Г¤ndra sidor.",
          "lang": "sv"
       },
       {
-         "value": "โปรไฟล์นี้มีชุดที่สมบูรณ์ของโมดูลสำหรับธีมที่มีโมดูลที่ผู้ใช้ต้องการเพื่อเปลี่ยนเพจ",
+         "value": "а№‚аё›аёЈа№„аёџаёҐа№Њаё™аёµа№‰аёЎаёµаёЉаёёаё”аё—аёµа№€аёЄаёЎаёљаё№аёЈаё“а№Њаё‚аё­аё‡а№‚аёЎаё”аё№аёҐаёЄаёіаё«аёЈаё±аёљаё�аёµаёЎаё—аёµа№€аёЎаёµа№‚аёЎаё”аё№аёҐаё—аёµа№€аёњаё№а№‰а№ѓаёЉа№‰аё•а№‰аё­аё‡аёЃаёІаёЈа№Ђаёћаё·а№€аё­а№Ђаё›аёҐаёµа№€аёўаё™а№Ђаёћаё€",
          "lang": "th"
       },
       {
-         "value": "Bu tanıtım, kullanıcıların sayfa değiştirmek için gerek duydukları birimler de içinde olmak üzere, temayla ilgili tüm birim kümesini içerir.",
+         "value": "Bu tanД±tД±m, kullanД±cД±larД±n sayfa deДџiЕџtirmek iГ§in gerek duyduklarД± birimler de iГ§inde olmak Гјzere, temayla ilgili tГјm birim kГјmesini iГ§erir.",
          "lang": "tr"
       },
       {
-         "value": "Цей профайл містить повний набір модулів для теми, включаючи модулі, за допомогою яких користувачі змінюють сторінки.",
+         "value": "Р¦РµР№ РїСЂРѕС„Р°Р№Р» РјС–СЃС‚РёС‚СЊ РїРѕРІРЅРёР№ РЅР°Р±С–СЂ РјРѕРґСѓР»С–РІ РґР»СЏ С‚РµРјРё, РІРєР»СЋС‡Р°СЋС‡Рё РјРѕРґСѓР»С–, Р·Р° РґРѕРїРѕРјРѕРіРѕСЋ СЏРєРёС… РєРѕСЂРёСЃС‚СѓРІР°С‡С– Р·РјС–РЅСЋСЋС‚СЊ СЃС‚РѕСЂС–РЅРєРё.",
          "lang": "uk"
       },
       {
-         "value": "此概要文件具有主题的完整模块集，包括用户更改页面所需的模块。",
+         "value": "ж­¤ж¦‚и¦Ѓж–‡д»¶е…·жњ‰дё»йў�зљ„е®Њж•ґжЁЎеќ—й›†пјЊеЊ…ж‹¬з”Ёж€·ж›ґж”№йЎµйќўж‰ЂйњЂзљ„жЁЎеќ—гЂ‚",
          "lang": "zh"
       },
       {
-         "value": "這個設定檔包含佈景主題的完整模組集，包括使用者變更頁面所需要的模組。",
+         "value": "йЂ™еЂ‹иЁ­е®љжЄ”еЊ…еђ«дЅ€ж™Їдё»йЎЊзљ„е®Њж•ґжЁЎзµ„й›†пјЊеЊ…ж‹¬дЅїз”ЁиЂ…и®Љж›ґй Ѓйќўж‰ЂйњЂи¦Ѓзљ„жЁЎзµ„гЂ‚",
          "lang": "zh_TW"
       }
    ]

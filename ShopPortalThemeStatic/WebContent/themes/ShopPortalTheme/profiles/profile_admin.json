@@ -1,5 +1,6 @@
-﻿{
+п»ї{
 	"moduleIDs": [
+		"shop_portal_theme_85_dynamic_spots",
 		"wp_theme_portal_80",
 		"wp_portlet_css",
 		"wp_one_ui",
@@ -22,11 +23,11 @@
 	],
 	"titles": [
 		{
-			"value":"‏ادارة‏",
+			"value":"вЂЏШ§ШЇШ§Ш±Ш©вЂЏ",
 			"lang":"ar"
 		},
 		{
-			"value":"Administració",
+			"value":"AdministraciГі",
 			"lang":"ca"
 		},
 		{
@@ -42,7 +43,7 @@
 			"lang":"de"
 		},
 		{
-			"value":"Διαχείριση",
+			"value":"О”О№О±П‡ОµОЇПЃО№ПѓО·",
 			"lang":"el"
 		},
 		{
@@ -50,7 +51,7 @@
 			"lang":"en"
 		},
 		{
-			"value":"Administración",
+			"value":"AdministraciГіn",
 			"lang":"es"
 		},
 		{
@@ -62,7 +63,7 @@
 			"lang":"fr"
 		},
 		{
-			"value":"מנהלה",
+			"value":"ЧћЧ Ч”ЧњЧ”",
 			"lang":"he"
 		},
 		{
@@ -70,7 +71,7 @@
 			"lang":"hr"
 		},
 		{
-			"value":"Adminisztráció",
+			"value":"AdminisztrГЎciГі",
 			"lang":"hu"
 		},
 		{
@@ -78,15 +79,15 @@
 			"lang":"it"
 		},
 		{
-			"value":"管理",
+			"value":"з®Ўзђ†",
 			"lang":"ja"
 		},
 		{
-			"value":"Әкімшілік",
+			"value":"У�РєС–РјС€С–Р»С–Рє",
 			"lang":"kk"
 		},
 		{
-			"value":"관리",
+			"value":"кґЂл¦¬",
 			"lang":"ko"
 		},
 		{
@@ -102,11 +103,11 @@
 			"lang":"pl"
 		},
 		{
-			"value":"Administração",
+			"value":"AdministraГ§ГЈo",
 			"lang":"pt"
 		},
 		{
-			"value":"Administração",
+			"value":"AdministraГ§ГЈo",
 			"lang":"pt_BR"
 		},
 		{
@@ -114,15 +115,15 @@
 			"lang":"ro"
 		},
 		{
-			"value":"Администрирование",
+			"value":"РђРґРјРёРЅРёСЃС‚СЂРёСЂРѕРІР°РЅРёРµ",
 			"lang":"ru"
 		},
 		{
-			"value":"Administrácia",
+			"value":"AdministrГЎcia",
 			"lang":"sk"
 		},
 		{
-			"value":"Skrbništvo",
+			"value":"SkrbniЕЎtvo",
 			"lang":"sl"
 		},
 		{
@@ -130,7 +131,7 @@
 			"lang":"sv"
 		},
 		{
-			"value":"การบริหารระบบ",
+			"value":"аёЃаёІаёЈаёљаёЈаёґаё«аёІаёЈаёЈаё°аёљаёљ",
 			"lang":"th"
 		},
 		{
@@ -138,41 +139,41 @@
 			"lang":"tr"
 		},
 		{
-			"value":"Адміністрування",
+			"value":"РђРґРјС–РЅС–СЃС‚СЂСѓРІР°РЅРЅСЏ",
 			"lang":"uk"
 		},
 		{
-			"value":"管理",
+			"value":"з®Ўзђ†",
 			"lang":"zh"
 		},
 		{
-			"value":"管理",
+			"value":"з®Ўзђ†",
 			"lang":"zh_TW"
 		}
 	],
 	"descriptions": [
 		{
-			"value":"لملف المواصفات هذا مجموعة من وحدات البرامج لصفحات الادارة من Portal.",
+			"value":"Щ„Щ…Щ„ЩЃ Ш§Щ„Щ…Щ€Ш§ШµЩЃШ§ШЄ Щ‡Ш°Ш§ Щ…Ш¬Щ…Щ€Ш№Ш© Щ…Щ† Щ€Ш­ШЇШ§ШЄ Ш§Щ„ШЁШ±Ш§Щ…Ш¬ Щ„ШµЩЃШ­Ш§ШЄ Ш§Щ„Ш§ШЇШ§Ш±Ш© Щ…Щ† Portal.",
 			"lang":"ar"
 		},
 		{
-			"value":"Aquest perfil té un conjunt de mòduls per a les pàgines d'Administració del Portal.",
+			"value":"Aquest perfil tГ© un conjunt de mГІduls per a les pГ gines d'AdministraciГі del Portal.",
 			"lang":"ca"
 		},
 		{
-			"value":"Tento profil má sadu modulů pro stránky Administrace portálu.",
+			"value":"Tento profil mГЎ sadu modulЕЇ pro strГЎnky Administrace portГЎlu.",
 			"lang":"cs"
 		},
 		{
-			"value":"Denne profil har et sæt moduler til portalens administrationssider.",
+			"value":"Denne profil har et sГ¦t moduler til portalens administrationssider.",
 			"lang":"da"
 		},
 		{
-			"value":"Dieses Profil enthält eine Gruppe von Modulen für die Verwaltungsseiten des Portals.",
+			"value":"Dieses Profil enthГ¤lt eine Gruppe von Modulen fГјr die Verwaltungsseiten des Portals.",
 			"lang":"de"
 		},
 		{
-			"value":"Αυτό το προφίλ περιέχει ένα σύνολο λειτουργικών μονάδων για τις σελίδες διαχείρισης του Portal.",
+			"value":"О‘П…П„ПЊ П„Ої ПЂПЃОїП†ОЇО» ПЂОµПЃО№О­П‡ОµО№ О­ОЅО± ПѓПЌОЅОїО»Ої О»ОµО№П„ОїП…ПЃОіО№ОєПЋОЅ ОјОїОЅО¬ОґП‰ОЅ ОіО№О± П„О№П‚ ПѓОµО»ОЇОґОµП‚ ОґО№О±П‡ОµОЇПЃО№ПѓО·П‚ П„ОїП… Portal.",
 			"lang":"el"
 		},
 		{
@@ -180,19 +181,19 @@
 			"lang":"en"
 		},
 		{
-			"value":"Este perfil tiene un conjunto de módulos para las páginas de Administración de Portal.",
+			"value":"Este perfil tiene un conjunto de mГіdulos para las pГЎginas de AdministraciГіn de Portal.",
 			"lang":"es"
 		},
 		{
-			"value":"Tässä profiilissa on portaalin hallintasivujen moduulijoukko.",
+			"value":"TГ¤ssГ¤ profiilissa on portaalin hallintasivujen moduulijoukko.",
 			"lang":"fi"
 		},
 		{
-			"value":"Ce profil possède un ensemble de modules pour les pages d'administration du portail.",
+			"value":"Ce profil possГЁde un ensemble de modules pour les pages d'administration du portail.",
 			"lang":"fr"
 		},
 		{
-			"value":"פרופיל זה כולל מערך של מודולים עבור דפי המנהלה של הפורטל.",
+			"value":"Ч¤ЧЁЧ•Ч¤Ч™Чњ Ч–Ч” Ч›Ч•ЧњЧњ ЧћЧўЧЁЧљ Ч©Чњ ЧћЧ•Ч“Ч•ЧњЧ™Чќ ЧўЧ‘Ч•ЧЁ Ч“Ч¤Ч™ Ч”ЧћЧ Ч”ЧњЧ” Ч©Чњ Ч”Ч¤Ч•ЧЁЧ�Чњ.",
 			"lang":"he"
 		},
 		{
@@ -200,7 +201,7 @@
 			"lang":"hr"
 		},
 		{
-			"value":"A profil a portál adminisztrációs oldalainak moduljait tartalmazza.",
+			"value":"A profil a portГЎl adminisztrГЎciГіs oldalainak moduljait tartalmazza.",
 			"lang":"hu"
 		},
 		{
@@ -208,15 +209,15 @@
 			"lang":"it"
 		},
 		{
-			"value":"このプロファイルには、ポータルの管理ページのモジュール・セットが含まれています。",
+			"value":"гЃ“гЃ®гѓ—гѓ­гѓ•г‚Ўг‚¤гѓ«гЃ«гЃЇгЂЃгѓќгѓјг‚їгѓ«гЃ®з®Ўзђ†гѓљгѓјг‚ёгЃ®гѓўг‚ёгѓҐгѓјгѓ«гѓ»г‚»гѓѓгѓ€гЃЊеђ«гЃѕг‚ЊгЃ¦гЃ„гЃѕгЃ™гЂ‚",
 			"lang":"ja"
 		},
 		{
-			"value":"Осы профайлда порталдың әкімшілік беттеріне арналған модульдердің жиыны бар.",
+			"value":"РћСЃС‹ РїСЂРѕС„Р°Р№Р»РґР° РїРѕСЂС‚Р°Р»РґС‹ТЈ У™РєС–РјС€С–Р»С–Рє Р±РµС‚С‚РµСЂС–РЅРµ Р°СЂРЅР°Р»Т“Р°РЅ РјРѕРґСѓР»СЊРґРµСЂРґС–ТЈ Р¶РёС‹РЅС‹ Р±Р°СЂ.",
 			"lang":"kk"
 		},
 		{
-			"value":"이 프로파일에는 포털의 관리 페이지에 필요한 모듈 세트가 있습니다.",
+			"value":"мќґ н”„лЎњнЊЊмќјм—ђлЉ” нЏ¬н„ёмќ� кґЂл¦¬ нЋ�мќґм§Ђм—ђ н•„мљ”н•њ лЄЁл“€ м„ёнЉёк°Ђ мћ€мЉµл‹€л‹¤.",
 			"lang":"ko"
 		},
 		{
@@ -228,15 +229,15 @@
 			"lang":"no"
 		},
 		{
-			"value":"Ten profil zawiera zbiór modułów dla stron administracyjnych portalu.",
+			"value":"Ten profil zawiera zbiГіr moduЕ‚Гіw dla stron administracyjnych portalu.",
 			"lang":"pl"
 		},
 		{
-			"value":"Este perfil tem um conjunto de módulos para as páginas de administração do portal.",
+			"value":"Este perfil tem um conjunto de mГіdulos para as pГЎginas de administraГ§ГЈo do portal.",
 			"lang":"pt"
 		},
 		{
-			"value":"Este perfil possui um conjunto de módulos para as páginas de Administração do  Portal.",
+			"value":"Este perfil possui um conjunto de mГіdulos para as pГЎginas de AdministraГ§ГЈo do  Portal.",
 			"lang":"pt_BR"
 		},
 		{
@@ -244,39 +245,39 @@
 			"lang":"ro"
 		},
 		{
-			"value":"Этот профайл содержит ряд модулей для страниц администрирования портала.",
+			"value":"Р­С‚РѕС‚ РїСЂРѕС„Р°Р№Р» СЃРѕРґРµСЂР¶РёС‚ СЂСЏРґ РјРѕРґСѓР»РµР№ РґР»СЏ СЃС‚СЂР°РЅРёС† Р°РґРјРёРЅРёСЃС‚СЂРёСЂРѕРІР°РЅРёСЏ РїРѕСЂС‚Р°Р»Р°.",
 			"lang":"ru"
 		},
 		{
-			"value":"Tento profil má množinu modulov pre administratívne stránky portálu.",
+			"value":"Tento profil mГЎ mnoЕѕinu modulov pre administratГ­vne strГЎnky portГЎlu.",
 			"lang":"sk"
 		},
 		{
-			"value":"Ta profil ima nabor modulov za skrbniške strani portala.",
+			"value":"Ta profil ima nabor modulov za skrbniЕЎke strani portala.",
 			"lang":"sl"
 		},
 		{
-			"value":"Profilen har en uppsättning moduler för portalens administrationssidor.",
+			"value":"Profilen har en uppsГ¤ttning moduler fГ¶r portalens administrationssidor.",
 			"lang":"sv"
 		},
 		{
-			"value":"โปรไฟล์นี้มีชุดของโมดูลสำหรับหน้าการควบคุมดูแลของพอร์ทัล",
+			"value":"а№‚аё›аёЈа№„аёџаёҐа№Њаё™аёµа№‰аёЎаёµаёЉаёёаё”аё‚аё­аё‡а№‚аёЎаё”аё№аёҐаёЄаёіаё«аёЈаё±аёљаё«аё™а№‰аёІаёЃаёІаёЈаё„аё§аёљаё„аёёаёЎаё”аё№а№ЃаёҐаё‚аё­аё‡аёћаё­аёЈа№Њаё—аё±аёҐ",
 			"lang":"th"
 		},
 		{
-			"value":"Bu tanıtım, Portal'ın Denetim sayfalarıyla ilgili bir birim kümesini içerir.",
+			"value":"Bu tanД±tД±m, Portal'Д±n Denetim sayfalarД±yla ilgili bir birim kГјmesini iГ§erir.",
 			"lang":"tr"
 		},
 		{
-			"value":"Цей профайл містить набір модулів для сторінок адміністрування порталу.",
+			"value":"Р¦РµР№ РїСЂРѕС„Р°Р№Р» РјС–СЃС‚РёС‚СЊ РЅР°Р±С–СЂ РјРѕРґСѓР»С–РІ РґР»СЏ СЃС‚РѕСЂС–РЅРѕРє Р°РґРјС–РЅС–СЃС‚СЂСѓРІР°РЅРЅСЏ РїРѕСЂС‚Р°Р»Сѓ.",
 			"lang":"uk"
 		},
 		{
-			"value":"此概要文件具有一组门户网站“管理”页面的模块。",
+			"value":"ж­¤ж¦‚и¦Ѓж–‡д»¶е…·жњ‰дёЂз»„й—Ёж€·зЅ‘з«™вЂњз®Ўзђ†вЂќйЎµйќўзљ„жЁЎеќ—гЂ‚",
 			"lang":"zh"
 		},
 		{
-			"value":"這個設定檔包含入口網站管理頁面的模組集。",
+			"value":"йЂ™еЂ‹иЁ­е®љжЄ”еЊ…еђ«е…ҐеЏЈз¶Із«™з®Ўзђ†й Ѓйќўзљ„жЁЎзµ„й›†гЂ‚",
 			"lang":"zh_TW"
 		}
 	]

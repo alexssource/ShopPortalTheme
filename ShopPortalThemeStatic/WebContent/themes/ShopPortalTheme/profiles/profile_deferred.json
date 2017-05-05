@@ -1,5 +1,6 @@
-﻿{
+п»ї{
    "moduleIDs": [
+   	  "shop_portal_theme_85_dynamic_spots",
       "wp_theme_portal_80",
       "wp_portlet_css",
       "wp_one_ui",
@@ -44,7 +45,7 @@
    ],
    "titles": [
       {
-         "value": "مؤجل",
+         "value": "Щ…Ш¤Ш¬Щ„",
          "lang": "ar"
       },
       {
@@ -52,7 +53,7 @@
          "lang": "ca"
       },
       {
-         "value": "Odložený",
+         "value": "OdloЕѕenГЅ",
          "lang": "cs"
       },
       {
@@ -60,11 +61,11 @@
          "lang": "da"
       },
       {
-         "value": "Verzögert",
+         "value": "VerzГ¶gert",
          "lang": "de"
       },
       {
-         "value": "Αναβολής φόρτωσης",
+         "value": "О‘ОЅО±ОІОїО»О®П‚ П†ПЊПЃП„П‰ПѓО·П‚",
          "lang": "el"
       },
       {
@@ -76,19 +77,19 @@
          "lang": "es"
       },
       {
-         "value": "Lykätty",
+         "value": "LykГ¤tty",
          "lang": "fi"
       },
       {
-         "value": "Différé",
+         "value": "DiffГ©rГ©",
          "lang": "fr"
       },
       {
-         "value": "מושהה",
+         "value": "ЧћЧ•Ч©Ч”Ч”",
          "lang": "iw"
       },
       {
-         "value": "Odgođeno",
+         "value": "OdgoД‘eno",
          "lang": "hr"
       },
       {
@@ -100,15 +101,15 @@
          "lang": "it"
       },
       {
-         "value": "据え置き",
+         "value": "жЌ®гЃ€зЅ®гЃЌ",
          "lang": "ja"
       },
       {
-         "value": "Кейінге қалдырылды",
+         "value": "РљРµР№С–РЅРіРµ Т›Р°Р»РґС‹СЂС‹Р»РґС‹",
          "lang": "kk"
       },
       {
-         "value": "연기됨",
+         "value": "м—°кё°лђЁ",
          "lang": "ko"
       },
       {
@@ -132,19 +133,19 @@
          "lang": "pt_BR"
       },
       {
-         "value": "Amânat",
+         "value": "AmГўnat",
          "lang": "ro"
       },
       {
-         "value": "Отложенный",
+         "value": "РћС‚Р»РѕР¶РµРЅРЅС‹Р№",
          "lang": "ru"
       },
       {
-         "value": "Odložené",
+         "value": "OdloЕѕenГ©",
          "lang": "sk"
       },
       {
-         "value": "Odloženo",
+         "value": "OdloЕѕeno",
          "lang": "sl"
       },
       {
@@ -152,7 +153,7 @@
          "lang": "sv"
       },
       {
-         "value": "ยืดเวลา",
+         "value": "аёўаё·аё”а№Ђаё§аёҐаёІ",
          "lang": "th"
       },
       {
@@ -160,41 +161,41 @@
          "lang": "tr"
       },
       {
-         "value": "Відкладено",
+         "value": "Р’С–РґРєР»Р°РґРµРЅРѕ",
          "lang": "uk"
       },
       {
-         "value": "推迟",
+         "value": "жЋЁиїџ",
          "lang": "zh"
       },
       {
-         "value": "延遲",
+         "value": "е»¶йЃІ",
          "lang": "zh_TW"
       }
    ],
    "descriptions": [
       {
-         "value": "ملف المواصفات هذا يحتوي على مجموعة كاملة من وحدات البرامج للنسق الرئيسي، لكن يتم تأجيل تحميل معظم وحدات البرامج هذه الا اذا كانت مطلوبة بالفعل.  يقوم ملف المواصفات هذا بتوازن الوظائف والأداء.",
+         "value": "Щ…Щ„ЩЃ Ш§Щ„Щ…Щ€Ш§ШµЩЃШ§ШЄ Щ‡Ш°Ш§ ЩЉШ­ШЄЩ€ЩЉ Ш№Щ„Щ‰ Щ…Ш¬Щ…Щ€Ш№Ш© ЩѓШ§Щ…Щ„Ш© Щ…Щ† Щ€Ш­ШЇШ§ШЄ Ш§Щ„ШЁШ±Ш§Щ…Ш¬ Щ„Щ„Щ†ШіЩ‚ Ш§Щ„Ш±Ш¦ЩЉШіЩЉШЊ Щ„ЩѓЩ† ЩЉШЄЩ… ШЄШЈШ¬ЩЉЩ„ ШЄШ­Щ…ЩЉЩ„ Щ…Ш№ШёЩ… Щ€Ш­ШЇШ§ШЄ Ш§Щ„ШЁШ±Ш§Щ…Ш¬ Щ‡Ш°Щ‡ Ш§Щ„Ш§ Ш§Ш°Ш§ ЩѓШ§Щ†ШЄ Щ…Ш·Щ„Щ€ШЁШ© ШЁШ§Щ„ЩЃШ№Щ„.  ЩЉЩ‚Щ€Щ… Щ…Щ„ЩЃ Ш§Щ„Щ…Щ€Ш§ШµЩЃШ§ШЄ Щ‡Ш°Ш§ ШЁШЄЩ€Ш§ШІЩ† Ш§Щ„Щ€ШёШ§Ш¦ЩЃ Щ€Ш§Щ„ШЈШЇШ§ШЎ.",
          "lang": "ar"
       },
       {
-         "value": "Aquest perfil té el conjunt complet de mòduls per al tema, però ajorna la càrrega de la major part d'aquests mòduls tret que siguin realment necessaris. Aquest perfil equilibra la funció i el rendiment.",
+         "value": "Aquest perfil tГ© el conjunt complet de mГІduls per al tema, perГІ ajorna la cГ rrega de la major part d'aquests mГІduls tret que siguin realment necessaris. Aquest perfil equilibra la funciГі i el rendiment.",
          "lang": "ca"
       },
       {
-         "value": "Tento profil má úplnou sadu modulů pro motiv, ale odkládá načítání většiny těchto modulů, dokud nejsou skutečně zapotřebí. Tento profil vyvažuje funkčnost a výkonnost.",
+         "value": "Tento profil mГЎ Гєplnou sadu modulЕЇ pro motiv, ale odklГЎdГЎ naДЌГ­tГЎnГ­ vД›tЕЎiny tД›chto modulЕЇ, dokud nejsou skuteДЌnД› zapotЕ™ebГ­. Tento profil vyvaЕѕuje funkДЌnost a vГЅkonnost.",
          "lang": "cs"
       },
       {
-         "value": "Denne profil har et fuldt sæt moduler til temaet, men indlæsningen af de fleste moduler udskydes, indtil de rent faktisk skal anvendes.  Denne profil afbalancerer funktion og ydeevne.",
+         "value": "Denne profil har et fuldt sГ¦t moduler til temaet, men indlГ¦sningen af de fleste moduler udskydes, indtil de rent faktisk skal anvendes.  Denne profil afbalancerer funktion og ydeevne.",
          "lang": "da"
       },
       {
-         "value": "Dieses Profil enthält die vollständige Gruppe von Modulen für das Motiv, verzögert aber das Laden der meisten dieser Module, bis diese tatsächlich benötigt werden.  Dieses Profil gleicht Funktion und Leistung aus.",
+         "value": "Dieses Profil enthГ¤lt die vollstГ¤ndige Gruppe von Modulen fГјr das Motiv, verzГ¶gert aber das Laden der meisten dieser Module, bis diese tatsГ¤chlich benГ¶tigt werden.  Dieses Profil gleicht Funktion und Leistung aus.",
          "lang": "de"
       },
       {
-         "value": "Αυτό το προφίλ περιέχει το πλήρες σύνολο λειτουργικών μονάδων για το θέμα, αλλά αναβάλλει τη φόρτωση των περισσότερων μέχρι να χρειαστεί να χρησιμοποιηθούν. Αυτό το προφίλ εξισορροπεί τη λειτουργικότητα με την απόδοση.",
+         "value": "О‘П…П„ПЊ П„Ої ПЂПЃОїП†ОЇО» ПЂОµПЃО№О­П‡ОµО№ П„Ої ПЂО»О®ПЃОµП‚ ПѓПЌОЅОїО»Ої О»ОµО№П„ОїП…ПЃОіО№ОєПЋОЅ ОјОїОЅО¬ОґП‰ОЅ ОіО№О± П„Ої ОёО­ОјО±, О±О»О»О¬ О±ОЅО±ОІО¬О»О»ОµО№ П„О· П†ПЊПЃП„П‰ПѓО· П„П‰ОЅ ПЂОµПЃО№ПѓПѓПЊП„ОµПЃП‰ОЅ ОјО­П‡ПЃО№ ОЅО± П‡ПЃОµО№О±ПѓП„ОµОЇ ОЅО± П‡ПЃО·ПѓО№ОјОїПЂОїО№О·ОёОїПЌОЅ. О‘П…П„ПЊ П„Ої ПЂПЃОїП†ОЇО» ОµОѕО№ПѓОїПЃПЃОїПЂОµОЇ П„О· О»ОµО№П„ОїП…ПЃОіО№ОєПЊП„О·П„О± ОјОµ П„О·ОЅ О±ПЂПЊОґОїПѓО·.",
          "lang": "el"
       },
       {
@@ -202,27 +203,27 @@
          "lang": "en"
       },
       {
-         "value": "Este perfil tiene un conjunto completo de módulos para el tema, pero aplaza la carga de la mayoría de estos módulos a no ser que sea necesario.  Este perfil equilibra función y rendimiento.",
+         "value": "Este perfil tiene un conjunto completo de mГіdulos para el tema, pero aplaza la carga de la mayorГ­a de estos mГіdulos a no ser que sea necesario.  Este perfil equilibra funciГіn y rendimiento.",
          "lang": "es"
       },
       {
-         "value": "Tässä profiilissa on täysi teeman moduulijoukko, mutta profiili lykkää useimpien kyseisten moduulien latausta, kunnes niitä tarvitaan.  Profiili tasapainottaa toiminnallisuutta ja suorituskykyä.",
+         "value": "TГ¤ssГ¤ profiilissa on tГ¤ysi teeman moduulijoukko, mutta profiili lykkГ¤Г¤ useimpien kyseisten moduulien latausta, kunnes niitГ¤ tarvitaan.  Profiili tasapainottaa toiminnallisuutta ja suorituskykyГ¤.",
          "lang": "fi"
       },
       {
-         "value": "Ce profil possède l'ensemble complet de modules pour le thème mais diffère le chargement de la plupart de ces modules sauf s'ils sont requis.  Il équilibre la fonctionnalité et les performances.",
+         "value": "Ce profil possГЁde l'ensemble complet de modules pour le thГЁme mais diffГЁre le chargement de la plupart de ces modules sauf s'ils sont requis.  Il Г©quilibre la fonctionnalitГ© et les performances.",
          "lang": "fr"
       },
       {
-         "value": "פרופיל זה כולל מערך שלם של מודולים עבור הערכה, אבל משהה את הטעינה של רוב המודולים אלא אם הם נחוצים בפועל.  פרופיל זה מאזן פונקציונליות וביצועים.",
+         "value": "Ч¤ЧЁЧ•Ч¤Ч™Чњ Ч–Ч” Ч›Ч•ЧњЧњ ЧћЧўЧЁЧљ Ч©ЧњЧќ Ч©Чњ ЧћЧ•Ч“Ч•ЧњЧ™Чќ ЧўЧ‘Ч•ЧЁ Ч”ЧўЧЁЧ›Ч”, ЧђЧ‘Чњ ЧћЧ©Ч”Ч” ЧђЧЄ Ч”Ч�ЧўЧ™Ч Ч” Ч©Чњ ЧЁЧ•Ч‘ Ч”ЧћЧ•Ч“Ч•ЧњЧ™Чќ ЧђЧњЧђ ЧђЧќ Ч”Чќ Ч Ч—Ч•Ч¦Ч™Чќ Ч‘Ч¤Ч•ЧўЧњ.  Ч¤ЧЁЧ•Ч¤Ч™Чњ Ч–Ч” ЧћЧђЧ–Чџ Ч¤Ч•Ч Ч§Ч¦Ч™Ч•Ч ЧњЧ™Ч•ЧЄ Ч•Ч‘Ч™Ч¦Ч•ЧўЧ™Чќ.",
          "lang": "iw"
       },
       {
-         "value": "Ovaj profil ima puni skup modula za temu, ali odgađa učitavanje većine tih modula dok nisu stvarno potrebni. Ovaj profil uravnotežuje funkcionalnost i performanse.",
+         "value": "Ovaj profil ima puni skup modula za temu, ali odgaД‘a uДЌitavanje veД‡ine tih modula dok nisu stvarno potrebni. Ovaj profil uravnoteЕѕuje funkcionalnost i performanse.",
          "lang": "hr"
       },
       {
-         "value": "Ez a profil a modul témáinak teljes készletét tartalmazza, de a modulok legtöbbjének betöltését addig késlelteti, amíg azokra ténylegesen szükség nem lesz.  A profil egyensúlyt teremt funkció és teljesítmény között.",
+         "value": "Ez a profil a modul tГ©mГЎinak teljes kГ©szletГ©t tartalmazza, de a modulok legtГ¶bbjГ©nek betГ¶ltГ©sГ©t addig kГ©slelteti, amГ­g azokra tГ©nylegesen szГјksГ©g nem lesz.  A profil egyensГєlyt teremt funkciГі Г©s teljesГ­tmГ©ny kГ¶zГ¶tt.",
          "lang": "hu"
       },
       {
@@ -230,15 +231,15 @@
          "lang": "it"
       },
       {
-         "value": "このプロファイルにはテーマに関するすべてのモジュールのセットがありますが、実際に必要にならない限り、それらのほとんどのモジュールのロードを据え置きます。  このプロファイルは機能とパフォーマンスのバランスを取ります。",
+         "value": "гЃ“гЃ®гѓ—гѓ­гѓ•г‚Ўг‚¤гѓ«гЃ«гЃЇгѓ†гѓјгѓћгЃ«й–ўгЃ™г‚‹гЃ™гЃ№гЃ¦гЃ®гѓўг‚ёгѓҐгѓјгѓ«гЃ®г‚»гѓѓгѓ€гЃЊгЃ‚г‚ЉгЃѕгЃ™гЃЊгЂЃе®џйљ›гЃ«еї…и¦ЃгЃ«гЃЄг‚‰гЃЄгЃ„й™ђг‚ЉгЂЃгЃќг‚Њг‚‰гЃ®гЃ»гЃЁг‚“гЃ©гЃ®гѓўг‚ёгѓҐгѓјгѓ«гЃ®гѓ­гѓјгѓ‰г‚’жЌ®гЃ€зЅ®гЃЌгЃѕгЃ™гЂ‚  гЃ“гЃ®гѓ—гѓ­гѓ•г‚Ўг‚¤гѓ«гЃЇж©џиѓЅгЃЁгѓ‘гѓ•г‚©гѓјгѓћгѓіг‚№гЃ®гѓђгѓ©гѓіг‚№г‚’еЏ–г‚ЉгЃѕгЃ™гЂ‚",
          "lang": "ja"
       },
       {
-         "value": "Осы профайлда тақырыпқа арналған модульдердің толық жиыны бар, бірақ осы модульдер нақты керек болмайынша, олардың көпшілігін жүктеу кейінге қалдырады.  Осы профайл функцияны және өнімділікті тең ұстайды.",
+         "value": "РћСЃС‹ РїСЂРѕС„Р°Р№Р»РґР° С‚Р°Т›С‹СЂС‹РїТ›Р° Р°СЂРЅР°Р»Т“Р°РЅ РјРѕРґСѓР»СЊРґРµСЂРґС–ТЈ С‚РѕР»С‹Т› Р¶РёС‹РЅС‹ Р±Р°СЂ, Р±С–СЂР°Т› РѕСЃС‹ РјРѕРґСѓР»СЊРґРµСЂ РЅР°Т›С‚С‹ РєРµСЂРµРє Р±РѕР»РјР°Р№С‹РЅС€Р°, РѕР»Р°СЂРґС‹ТЈ РєУ©РїС€С–Р»С–РіС–РЅ Р¶ТЇРєС‚РµСѓ РєРµР№С–РЅРіРµ Т›Р°Р»РґС‹СЂР°РґС‹.  РћСЃС‹ РїСЂРѕС„Р°Р№Р» С„СѓРЅРєС†РёСЏРЅС‹ Р¶У™РЅРµ У©РЅС–РјРґС–Р»С–РєС‚С– С‚РµТЈ Т±СЃС‚Р°Р№РґС‹.",
          "lang": "kk"
       },
       {
-         "value": "이 프로파일에는 테마의 전체 모듈 세트가 있지만 이러한 모듈이 실제로 필요하지 않는 한 이러한 모듈 대부분의 로드를 지연합니다. 이 프로파일은 기능과 성능의 균형을 맞춥니다.",
+         "value": "мќґ н”„лЎњнЊЊмќјм—ђлЉ” н…Њл§€мќ� м „мІґ лЄЁл“€ м„ёнЉёк°Ђ мћ€м§Ђл§Њ мќґлџ¬н•њ лЄЁл“€мќґ м‹¤м њлЎњ н•„мљ”н•�м§Ђ м•ЉлЉ” н•њ мќґлџ¬н•њ лЄЁл“€ лЊЂл¶Ђл¶„мќ� лЎњл“њлҐј м§Ђм—°н•©л‹€л‹¤. мќґ н”„лЎњнЊЊмќјмќЂ кё°лЉҐкіј м„±лЉҐмќ� к· н�•мќ„ л§ћм¶Ґл‹€л‹¤.",
          "lang": "ko"
       },
       {
@@ -246,59 +247,59 @@
          "lang": "nl"
       },
       {
-         "value": "Denne profilen har et fullstendig sett med moduler for temaet, men utsetter innlasting av de fleste av disse modulene med mindre de faktisk er nødvendige. Denne profilen balanserer funksjon og ytelse.",
+         "value": "Denne profilen har et fullstendig sett med moduler for temaet, men utsetter innlasting av de fleste av disse modulene med mindre de faktisk er nГёdvendige. Denne profilen balanserer funksjon og ytelse.",
          "lang": "no"
       },
       {
-         "value": "Ten profil zawiera pełny zestaw modułów kompozycji, ale ładowanie większości z nich jest odroczone do momentu, w którym będą rzeczywiście potrzebne.  Ten profil zapewnia równowagę między funkcjonalnością a wydajnością.",
+         "value": "Ten profil zawiera peЕ‚ny zestaw moduЕ‚Гіw kompozycji, ale Е‚adowanie wiД™kszoЕ›ci z nich jest odroczone do momentu, w ktГіrym bД™dД… rzeczywiЕ›cie potrzebne.  Ten profil zapewnia rГіwnowagД™ miД™dzy funkcjonalnoЕ›ciД… a wydajnoЕ›ciД….",
          "lang": "pl"
       },
       {
-         "value": "Este perfil tem um conjunto completo de módulos para o tema, mas difere o carregamento da maioria destes módulos, excepto se for realmente necessário.  Este perfil equilibra a função e o desempenho.",
+         "value": "Este perfil tem um conjunto completo de mГіdulos para o tema, mas difere o carregamento da maioria destes mГіdulos, excepto se for realmente necessГЎrio.  Este perfil equilibra a funГ§ГЈo e o desempenho.",
          "lang": "pt"
       },
       {
-         "value": "Esse perfil possui o conjunto completo de módulos para o tema, mas adia o carregamento da maioria desses módulos, a menos que seja realmente necessário.  Esse perfil equilibra função e desempenho.",
+         "value": "Esse perfil possui o conjunto completo de mГіdulos para o tema, mas adia o carregamento da maioria desses mГіdulos, a menos que seja realmente necessГЎrio.  Esse perfil equilibra funГ§ГЈo e desempenho.",
          "lang": "pt_BR"
       },
       {
-         "value": "Acest profil are setul complet de module pentru temă, dar amână încărcarea majorităţii acestor module în afară de cazul în care este necesar.  Acest profil echilibrează funcţia şi performanţa.",
+         "value": "Acest profil are setul complet de module pentru temДѓ, dar amГўnДѓ Г®ncДѓrcarea majoritДѓЕЈii acestor module Г®n afarДѓ de cazul Г®n care este necesar.  Acest profil echilibreazДѓ funcЕЈia Еџi performanЕЈa.",
          "lang": "ro"
       },
       {
-         "value": "Этот профайл содержит полный набор модулей, но их загрузка отложена, пока в них не возникнет фактической потребности.  Такой профайл является сбалансированным между функциональностью и производительностью.",
+         "value": "Р­С‚РѕС‚ РїСЂРѕС„Р°Р№Р» СЃРѕРґРµСЂР¶РёС‚ РїРѕР»РЅС‹Р№ РЅР°Р±РѕСЂ РјРѕРґСѓР»РµР№, РЅРѕ РёС… Р·Р°РіСЂСѓР·РєР° РѕС‚Р»РѕР¶РµРЅР°, РїРѕРєР° РІ РЅРёС… РЅРµ РІРѕР·РЅРёРєРЅРµС‚ С„Р°РєС‚РёС‡РµСЃРєРѕР№ РїРѕС‚СЂРµР±РЅРѕСЃС‚Рё.  РўР°РєРѕР№ РїСЂРѕС„Р°Р№Р» СЏРІР»СЏРµС‚СЃСЏ СЃР±Р°Р»Р°РЅСЃРёСЂРѕРІР°РЅРЅС‹Рј РјРµР¶РґСѓ С„СѓРЅРєС†РёРѕРЅР°Р»СЊРЅРѕСЃС‚СЊСЋ Рё РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊСЋ.",
          "lang": "ru"
       },
       {
-         "value": "Tento profil má úplnú množinu modulov pre tému, ale odkladá načítanie väčšiny týchto modulov, kým nebudú skutočne potrebné.  Tento profil vyvažuje funkčnosť a výkon.",
+         "value": "Tento profil mГЎ ГєplnГє mnoЕѕinu modulov pre tГ©mu, ale odkladГЎ naДЌГ­tanie vГ¤ДЌЕЎiny tГЅchto modulov, kГЅm nebudГє skutoДЌne potrebnГ©.  Tento profil vyvaЕѕuje funkДЌnosЕҐ a vГЅkon.",
          "lang": "sk"
       },
       {
-         "value": "Ta profil vsebuje celoten nabor modulov za temo, ampak večino teh modulov odloži, dokler jih dejansko ne potrebuje.  Ta profil uravnoteži funkcijo in zmogljivost.",
+         "value": "Ta profil vsebuje celoten nabor modulov za temo, ampak veДЌino teh modulov odloЕѕi, dokler jih dejansko ne potrebuje.  Ta profil uravnoteЕѕi funkcijo in zmogljivost.",
          "lang": "sl"
       },
       {
-         "value": "Profilen har en fullständig uppsättning moduler men de flesta moduler läses inte in förrän de faktiskt behövs.  Profilen balanserar funktion och prestanda.",
+         "value": "Profilen har en fullstГ¤ndig uppsГ¤ttning moduler men de flesta moduler lГ¤ses inte in fГ¶rrГ¤n de faktiskt behГ¶vs.  Profilen balanserar funktion och prestanda.",
          "lang": "sv"
       },
       {
-         "value": "โปรไฟล์นี้มีชุดที่สมบูรณ์ของโมดูลสำหรับธีม แต่ควรยืดเวลาการโหลดโมดูลส่วนใหญ่เหล่านี้ยกเว้นว่าจำเป็นจริงๆ  โปรไฟล์นี้จะปรับสมดุลระหว่างฟังก์ชันและประสิทธิภาพการทำงาน",
+         "value": "а№‚аё›аёЈа№„аёџаёҐа№Њаё™аёµа№‰аёЎаёµаёЉаёёаё”аё—аёµа№€аёЄаёЎаёљаё№аёЈаё“а№Њаё‚аё­аё‡а№‚аёЎаё”аё№аёҐаёЄаёіаё«аёЈаё±аёљаё�аёµаёЎ а№Ѓаё•а№€аё„аё§аёЈаёўаё·аё”а№Ђаё§аёҐаёІаёЃаёІаёЈа№‚аё«аёҐаё”а№‚аёЎаё”аё№аёҐаёЄа№€аё§аё™а№ѓаё«аёЌа№€а№Ђаё«аёҐа№€аёІаё™аёµа№‰аёўаёЃа№Ђаё§а№‰аё™аё§а№€аёІаё€аёіа№Ђаё›а№‡аё™аё€аёЈаёґаё‡а№†  а№‚аё›аёЈа№„аёџаёҐа№Њаё™аёµа№‰аё€аё°аё›аёЈаё±аёљаёЄаёЎаё”аёёаёҐаёЈаё°аё«аё§а№€аёІаё‡аёџаё±аё‡аёЃа№ЊаёЉаё±аё™а№ЃаёҐаё°аё›аёЈаё°аёЄаёґаё—аё�аёґаё аёІаёћаёЃаёІаёЈаё—аёіаё‡аёІаё™",
          "lang": "th"
       },
       {
-         "value": "Bu tanıtım, temayla ilgili tüm birim kümesini içerir; ancak, gerçekten gerekmedikçe bunların çoğunun yüklenmesini erteler.  Bu tanıtım işlev ile başarımı dengeler.",
+         "value": "Bu tanД±tД±m, temayla ilgili tГјm birim kГјmesini iГ§erir; ancak, gerГ§ekten gerekmedikГ§e bunlarД±n Г§oДџunun yГјklenmesini erteler.  Bu tanД±tД±m iЕџlev ile baЕџarД±mД± dengeler.",
          "lang": "tr"
       },
       {
-         "value": "Цей профайл містить повний набір модулів для теми, але більшість з них завантажуються лише на вимогу.  Такий профайл забезпечує баланс між функціональністю та продуктивністю.",
+         "value": "Р¦РµР№ РїСЂРѕС„Р°Р№Р» РјС–СЃС‚РёС‚СЊ РїРѕРІРЅРёР№ РЅР°Р±С–СЂ РјРѕРґСѓР»С–РІ РґР»СЏ С‚РµРјРё, Р°Р»Рµ Р±С–Р»СЊС€С–СЃС‚СЊ Р· РЅРёС… Р·Р°РІР°РЅС‚Р°Р¶СѓСЋС‚СЊСЃСЏ Р»РёС€Рµ РЅР° РІРёРјРѕРіСѓ.  РўР°РєРёР№ РїСЂРѕС„Р°Р№Р» Р·Р°Р±РµР·РїРµС‡СѓС” Р±Р°Р»Р°РЅСЃ РјС–Р¶ С„СѓРЅРєС†С–РѕРЅР°Р»СЊРЅС–СЃС‚СЋ С‚Р° РїСЂРѕРґСѓРєС‚РёРІРЅС–СЃС‚СЋ.",
          "lang": "uk"
       },
       {
-         "value": "此概要文件具有主题的完整模块集，但如果并非真正需要，那么将推迟装入这些模块中的绝大多数模块。此概要文件将均衡功能和性能。",
+         "value": "ж­¤ж¦‚и¦Ѓж–‡д»¶е…·жњ‰дё»йў�зљ„е®Њж•ґжЁЎеќ—й›†пјЊдЅ†е¦‚жћње№¶йќћзњџж­ЈйњЂи¦ЃпјЊй‚Јд№€е°†жЋЁиїџиЈ…е…Ґиї™дє›жЁЎеќ—дё­зљ„з»ќе¤§е¤љж•°жЁЎеќ—гЂ‚ж­¤ж¦‚и¦Ѓж–‡д»¶е°†еќ‡иЎЎеЉџиѓЅе’ЊжЂ§иѓЅгЂ‚",
          "lang": "zh"
       },
       {
-         "value": "這個設定檔包含佈景主題的完整模組集，但是延遲載入這其中的大部分模組，除非實際需要。這個設定檔可平衡功能與效能。",
+         "value": "йЂ™еЂ‹иЁ­е®љжЄ”еЊ…еђ«дЅ€ж™Їдё»йЎЊзљ„е®Њж•ґжЁЎзµ„й›†пјЊдЅ†ж�Їе»¶йЃІиј‰е…ҐйЂ™е…¶дё­зљ„е¤§йѓЁе€†жЁЎзµ„пјЊй™¤йќћеЇ¦йљ›йњЂи¦ЃгЂ‚йЂ™еЂ‹иЁ­е®љжЄ”еЏЇе№іиЎЎеЉџиѓЅи€‡ж•€иѓЅгЂ‚",
          "lang": "zh_TW"
       }
    ]

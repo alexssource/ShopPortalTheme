@@ -19,7 +19,10 @@
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ShopPortalThemeStatic/themes/ShopPortalTheme/ico/apple-touch-icon-72-precomposed.png">
 <link rel="apple-touch-icon-precomposed" href="/ShopPortalThemeStatic/themes/ShopPortalTheme/ico/apple-touch-icon-57-precomposed.png">
 <link rel="shortcut icon" href="/ShopPortalThemeStatic/themes/ShopPortalTheme/ico/favicon.png">
-<link id="CSS_Bootstrap" href="/ShopPortalThemeStatic/themes/ShopPortalTheme/css/bootstrap.css" rel="stylesheet" type="text/css" />
+
+<link id="Shop_CSS_Bootstrap_min" href="/ShopPortalThemeStatic/themes/ShopPortalTheme/shopcss/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link id="Shop_homepage.css" href="/ShopPortalThemeStatic/themes/ShopPortalTheme/shopcss/shop-homepage.css" rel="stylesheet" type="text/css" />
+
 <link id="CSS_FontAwesome" href="/ShopPortalThemeStatic/themes/ShopPortalTheme/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 <%-- link the color palette style set for the page --%><%
 {

@@ -1,5 +1,6 @@
-﻿{
+п»ї{
 	"moduleIDs": [
+		"shop_portal_theme_85_dynamic_spots",
 		"wp_theme_portal_80",
 		"wp_portlet_css",
 		"wp_one_ui",
@@ -36,11 +37,11 @@
 	],
 	"titles": [
 		{
-			"value":"تأليف ادارة محتويات الانترنت",
+			"value":"ШЄШЈЩ„ЩЉЩЃ Ш§ШЇШ§Ш±Ш© Щ…Ш­ШЄЩ€ЩЉШ§ШЄ Ш§Щ„Ш§Щ†ШЄШ±Щ†ШЄ",
 			"lang":"ar"
 		},
 		{
-			"value":"Creació personalitzada de WCM",
+			"value":"CreaciГі personalitzada de WCM",
 			"lang":"ca"
 		},
 		{
@@ -56,7 +57,7 @@
 			"lang":"de"
 		},
 		{
-			"value":"Σύνταξη περιεχομένου WCM",
+			"value":"ОЈПЌОЅП„О±ОѕО· ПЂОµПЃО№ОµП‡ОїОјО­ОЅОїП… WCM",
 			"lang":"el"
 		},
 		{
@@ -64,7 +65,7 @@
 			"lang":"en"
 		},
 		{
-			"value":"Creación personalizada de WCM",
+			"value":"CreaciГіn personalizada de WCM",
 			"lang":"es"
 		},
 		{
@@ -72,11 +73,11 @@
 			"lang":"fi"
 		},
 		{
-			"value":"Création dans WCM",
+			"value":"CrГ©ation dans WCM",
 			"lang":"fr"
 		},
 		{
-			"value":"עיצוב WCM",
+			"value":"ЧўЧ™Ч¦Ч•Ч‘ WCM",
 			"lang":"he"
 		},
 		{
@@ -84,7 +85,7 @@
 			"lang":"hr"
 		},
 		{
-			"value":"WCM tartalomszerzés",
+			"value":"WCM tartalomszerzГ©s",
 			"lang":"hu"
 		},
 		{
@@ -92,15 +93,15 @@
 			"lang":"it"
 		},
 		{
-			"value":"WCM オーサリング",
+			"value":"WCM г‚Єгѓјг‚µгѓЄгѓіг‚°",
 			"lang":"ja"
 		},
 		{
-			"value":"WCM жасау",
+			"value":"WCM Р¶Р°СЃР°Сѓ",
 			"lang":"kk"
 		},
 		{
-			"value":"WCM 작성",
+			"value":"WCM мћ‘м„±",
 			"lang":"ko"
 		},
 		{
@@ -112,7 +113,7 @@
 			"lang":"no"
 		},
 		{
-			"value":"Tworzenie treści produktu WCM",
+			"value":"Tworzenie treЕ›ci produktu WCM",
 			"lang":"pl"
 		},
 		{
@@ -124,11 +125,11 @@
 			"lang":"pt_BR"
 		},
 		{
-			"value":"Creaţie WCM",
+			"value":"CreaЕЈie WCM",
 			"lang":"ro"
 		},
 		{
-			"value":"Создание WCM",
+			"value":"РЎРѕР·РґР°РЅРёРµ WCM",
 			"lang":"ru"
 		},
 		{
@@ -140,11 +141,11 @@
 			"lang":"sl"
 		},
 		{
-			"value":"Webbinnehållshantering",
+			"value":"WebbinnehГҐllshantering",
 			"lang":"sv"
 		},
 		{
-			"value":"การเขียน WCM",
+			"value":"аёЃаёІаёЈа№Ђаё‚аёµаёўаё™ WCM",
 			"lang":"th"
 		},
 		{
@@ -152,41 +153,41 @@
 			"lang":"tr"
 		},
 		{
-			"value":"Створення WCM",
+			"value":"РЎС‚РІРѕСЂРµРЅРЅСЏ WCM",
 			"lang":"uk"
 		},
 		{
-			"value":"WCM 编写",
+			"value":"WCM зј–е†™",
 			"lang":"zh"
 		},
 		{
-			"value":"WCM 編寫",
+			"value":"WCM з·ЁеЇ«",
 			"lang":"zh_TW"
 		}
 	],
 	"descriptions": [
 		{
-			"value":"ملف المواصفات هذه له مجموعة كاملة من وحدات البرامج المطلوبة لدعم خبرة تأليف ادارة محتويات الانترنت الكاملة. ",
+			"value":"Щ…Щ„ЩЃ Ш§Щ„Щ…Щ€Ш§ШµЩЃШ§ШЄ Щ‡Ш°Щ‡ Щ„Щ‡ Щ…Ш¬Щ…Щ€Ш№Ш© ЩѓШ§Щ…Щ„Ш© Щ…Щ† Щ€Ш­ШЇШ§ШЄ Ш§Щ„ШЁШ±Ш§Щ…Ш¬ Ш§Щ„Щ…Ш·Щ„Щ€ШЁШ© Щ„ШЇШ№Щ… Ш®ШЁШ±Ш© ШЄШЈЩ„ЩЉЩЃ Ш§ШЇШ§Ш±Ш© Щ…Ш­ШЄЩ€ЩЉШ§ШЄ Ш§Щ„Ш§Щ†ШЄШ±Щ†ШЄ Ш§Щ„ЩѓШ§Щ…Щ„Ш©. ",
 			"lang":"ar"
 		},
 		{
-			"value":"Aquest perfil té el conjunt complet de mòduls necessari per donar suport a l'experiència completa de creació personalitzada de WCM.",
+			"value":"Aquest perfil tГ© el conjunt complet de mГІduls necessari per donar suport a l'experiГЁncia completa de creaciГі personalitzada de WCM.",
 			"lang":"ca"
 		},
 		{
-			"value":"Tento profil má úplnou sadu modulů nezbytnou k vyzkoušení všech funkcí tvorby obsahu WCM. ",
+			"value":"Tento profil mГЎ Гєplnou sadu modulЕЇ nezbytnou k vyzkouЕЎenГ­ vЕЎech funkcГ­ tvorby obsahu WCM. ",
 			"lang":"cs"
 		},
 		{
-			"value":"Denne profil indeholder de moduler, der bruges til at understøtte fuldstændig WCM-redigering.",
+			"value":"Denne profil indeholder de moduler, der bruges til at understГёtte fuldstГ¦ndig WCM-redigering.",
 			"lang":"da"
 		},
 		{
-			"value":"Dieses Profil besitzt den vollständigen Satz von Modulen, die erforderlich sind, um die volle WCM-Authoring-Erfahrung zu unterstützen. ",
+			"value":"Dieses Profil besitzt den vollstГ¤ndigen Satz von Modulen, die erforderlich sind, um die volle WCM-Authoring-Erfahrung zu unterstГјtzen. ",
 			"lang":"de"
 		},
 		{
-			"value":"Αυτό το προφίλ περιέχει το πλήρες σύνολο των λειτουργικών μονάδων που απαιτούνται για την υποστήριξη όλων των λειτουργιών σύνταξης περιεχομένου του WCM. ",
+			"value":"О‘П…П„ПЊ П„Ої ПЂПЃОїП†ОЇО» ПЂОµПЃО№О­П‡ОµО№ П„Ої ПЂО»О®ПЃОµП‚ ПѓПЌОЅОїО»Ої П„П‰ОЅ О»ОµО№П„ОїП…ПЃОіО№ОєПЋОЅ ОјОїОЅО¬ОґП‰ОЅ ПЂОїП… О±ПЂО±О№П„ОїПЌОЅП„О±О№ ОіО№О± П„О·ОЅ П…ПЂОїПѓП„О®ПЃО№ОѕО· ПЊО»П‰ОЅ П„П‰ОЅ О»ОµО№П„ОїП…ПЃОіО№ПЋОЅ ПѓПЌОЅП„О±ОѕО·П‚ ПЂОµПЃО№ОµП‡ОїОјО­ОЅОїП… П„ОїП… WCM. ",
 			"lang":"el"
 		},
 		{
@@ -194,27 +195,27 @@
 			"lang":"en"
 		},
 		{
-			"value":"Este perfil contiene el conjunto completo de módulos necesarios para dar soporte a la experiencia completa de creación personalizada de WCM.",
+			"value":"Este perfil contiene el conjunto completo de mГіdulos necesarios para dar soporte a la experiencia completa de creaciГіn personalizada de WCM.",
 			"lang":"es"
 		},
 		{
-			"value":"Tässä profiilissa on kattava joukko moduuleja, jota tarvitaan tukemaan monipuolista WCM-luontikokemusta. ",
+			"value":"TГ¤ssГ¤ profiilissa on kattava joukko moduuleja, jota tarvitaan tukemaan monipuolista WCM-luontikokemusta. ",
 			"lang":"fi"
 		},
 		{
-			"value":"Ce profil possède l'ensemble complet de modules nécessaires à la prise en charge de l'expérience de création dans WCM.",
+			"value":"Ce profil possГЁde l'ensemble complet de modules nГ©cessaires Г  la prise en charge de l'expГ©rience de crГ©ation dans WCM.",
 			"lang":"fr"
 		},
 		{
-			"value":"פרופיל זה כולל את מערך המודולים השלם הנחוץ לתמיכה בעיצוב מלא של WCM.‏ ",
+			"value":"Ч¤ЧЁЧ•Ч¤Ч™Чњ Ч–Ч” Ч›Ч•ЧњЧњ ЧђЧЄ ЧћЧўЧЁЧљ Ч”ЧћЧ•Ч“Ч•ЧњЧ™Чќ Ч”Ч©ЧњЧќ Ч”Ч Ч—Ч•ЧҐ ЧњЧЄЧћЧ™Ч›Ч” Ч‘ЧўЧ™Ч¦Ч•Ч‘ ЧћЧњЧђ Ч©Чњ WCM.вЂЏ ",
 			"lang":"he"
 		},
 		{
-			"value":"Ovaj profil sadrži potpuni skup modula potrebnih za podršku cjelovitog iskustva WCM stvaranja. ",
+			"value":"Ovaj profil sadrЕѕi potpuni skup modula potrebnih za podrЕЎku cjelovitog iskustva WCM stvaranja. ",
 			"lang":"hr"
 		},
 		{
-			"value":"Ez a profil a teljes WCM tartalomszerzési élmény támogatásához szükséges modulok teljes készletét tartalmazza. ",
+			"value":"Ez a profil a teljes WCM tartalomszerzГ©si Г©lmГ©ny tГЎmogatГЎsГЎhoz szГјksГ©ges modulok teljes kГ©szletГ©t tartalmazza. ",
 			"lang":"hu"
 		},
 		{
@@ -222,15 +223,15 @@
 			"lang":"it"
 		},
 		{
-			"value":"このプロファイルには、すべての WCM オーサリング・エクスペリエンスをサポートするために必要な、完全なモジュール・セットが含まれています。",
+			"value":"гЃ“гЃ®гѓ—гѓ­гѓ•г‚Ўг‚¤гѓ«гЃ«гЃЇгЂЃгЃ™гЃ№гЃ¦гЃ® WCM г‚Єгѓјг‚µгѓЄгѓіг‚°гѓ»г‚Ёг‚Їг‚№гѓљгѓЄг‚Ёгѓіг‚№г‚’г‚µгѓќгѓјгѓ€гЃ™г‚‹гЃџг‚ЃгЃ«еї…и¦ЃгЃЄгЂЃе®Ње…ЁгЃЄгѓўг‚ёгѓҐгѓјгѓ«гѓ»г‚»гѓѓгѓ€гЃЊеђ«гЃѕг‚ЊгЃ¦гЃ„гЃѕгЃ™гЂ‚",
 			"lang":"ja"
 		},
 		{
-			"value":"Осы профайлда толық WCM жасау тәжірибесн қолдау үшін қажет модульдердің толық жиыны бар. ",
+			"value":"РћСЃС‹ РїСЂРѕС„Р°Р№Р»РґР° С‚РѕР»С‹Т› WCM Р¶Р°СЃР°Сѓ С‚У™Р¶С–СЂРёР±РµСЃРЅ Т›РѕР»РґР°Сѓ ТЇС€С–РЅ Т›Р°Р¶РµС‚ РјРѕРґСѓР»СЊРґРµСЂРґС–ТЈ С‚РѕР»С‹Т› Р¶РёС‹РЅС‹ Р±Р°СЂ. ",
 			"lang":"kk"
 		},
 		{
-			"value":"이 프로파일에는 전체 WCM 작성 경험을 지원하는 데 필요한 전체 모듈 세트가 있습니다. ",
+			"value":"мќґ н”„лЎњнЊЊмќјм—ђлЉ” м „мІґ WCM мћ‘м„± кІЅн—�мќ„ м§Ђм›ђн•�лЉ” лЌ° н•„мљ”н•њ м „мІґ лЄЁл“€ м„ёнЉёк°Ђ мћ€мЉµл‹€л‹¤. ",
 			"lang":"ko"
 		},
 		{
@@ -238,59 +239,59 @@
 			"lang":"nl"
 		},
 		{
-			"value":"Denne profilen inneholder et fullstendig sett med moduler som gir støtte for WCM-redigering. ",
+			"value":"Denne profilen inneholder et fullstendig sett med moduler som gir stГёtte for WCM-redigering. ",
 			"lang":"no"
 		},
 		{
-			"value":"Ten profil zawiera pełny zestaw modułów niezbędnych do obsługi tworzenia treści w produkcie WCM. ",
+			"value":"Ten profil zawiera peЕ‚ny zestaw moduЕ‚Гіw niezbД™dnych do obsЕ‚ugi tworzenia treЕ›ci w produkcie WCM. ",
 			"lang":"pl"
 		},
 		{
-			"value":"Este perfil tem o conjunto completo de módulos requerido para suportar a experiência completa de autoria do WCM. ",
+			"value":"Este perfil tem o conjunto completo de mГіdulos requerido para suportar a experiГЄncia completa de autoria do WCM. ",
 			"lang":"pt"
 		},
 		{
-			"value":"Este perfil possui o conjunto completo de módulos necessários para suportar a experiência integral do WCM Authoring. ",
+			"value":"Este perfil possui o conjunto completo de mГіdulos necessГЎrios para suportar a experiГЄncia integral do WCM Authoring. ",
 			"lang":"pt_BR"
 		},
 		{
-			"value":"Acest profil are setul complet de module necesar pentru o experienţă completă de creaţie WCM.",
+			"value":"Acest profil are setul complet de module necesar pentru o experienЕЈДѓ completДѓ de creaЕЈie WCM.",
 			"lang":"ro"
 		},
 		{
-			"value":"Этот профайл содержит полный набор модулей, необходимых для поддержки всех функций создания материалов в WCM. ",
+			"value":"Р­С‚РѕС‚ РїСЂРѕС„Р°Р№Р» СЃРѕРґРµСЂР¶РёС‚ РїРѕР»РЅС‹Р№ РЅР°Р±РѕСЂ РјРѕРґСѓР»РµР№, РЅРµРѕР±С…РѕРґРёРјС‹С… РґР»СЏ РїРѕРґРґРµСЂР¶РєРё РІСЃРµС… С„СѓРЅРєС†РёР№ СЃРѕР·РґР°РЅРёСЏ РјР°С‚РµСЂРёР°Р»РѕРІ РІ WCM. ",
 			"lang":"ru"
 		},
 		{
-			"value":"Tento profil má úplnú množinu modulov, ktoré sú potrebné na podporu úplnej skúsenosti pri tvorbe obsahu WCM. ",
+			"value":"Tento profil mГЎ ГєplnГє mnoЕѕinu modulov, ktorГ© sГє potrebnГ© na podporu Гєplnej skГєsenosti pri tvorbe obsahu WCM. ",
 			"lang":"sk"
 		},
 		{
-			"value":"Ta profil vsebuje celoten nabor modulov, potrebnih za podporo celotne izkušnje avtoringa WCM.",
+			"value":"Ta profil vsebuje celoten nabor modulov, potrebnih za podporo celotne izkuЕЎnje avtoringa WCM.",
 			"lang":"sl"
 		},
 		{
-			"value":"Profilen har en fullständig uppsättning moduler som krävs för att utnyttja alla funktioner för webbinnehållshantering. ",
+			"value":"Profilen har en fullstГ¤ndig uppsГ¤ttning moduler som krГ¤vs fГ¶r att utnyttja alla funktioner fГ¶r webbinnehГҐllshantering. ",
 			"lang":"sv"
 		},
 		{
-			"value":"โปรไฟล์นี้มีชุดที่สมบุรณ์ของโมดูลที่จำเป็นต่อการสนับสนุนประสบการณ์เขียน WCM แบบเต็มรูปแบบ   ",
+			"value":"а№‚аё›аёЈа№„аёџаёҐа№Њаё™аёµа№‰аёЎаёµаёЉаёёаё”аё—аёµа№€аёЄаёЎаёљаёёаёЈаё“а№Њаё‚аё­аё‡а№‚аёЎаё”аё№аёҐаё—аёµа№€аё€аёіа№Ђаё›а№‡аё™аё•а№€аё­аёЃаёІаёЈаёЄаё™аё±аёљаёЄаё™аёёаё™аё›аёЈаё°аёЄаёљаёЃаёІаёЈаё“а№Ња№Ђаё‚аёµаёўаё™ WCM а№Ѓаёљаёља№Ђаё•а№‡аёЎаёЈаё№аё›а№Ѓаёљаёљ   ",
 			"lang":"th"
 		},
 		{
-			"value":"Bu tanıtım, tüm WCM Yazma deneyimini desteklemek için gereken eksiksiz bir birim kümesi çerir. ",
+			"value":"Bu tanД±tД±m, tГјm WCM Yazma deneyimini desteklemek iГ§in gereken eksiksiz bir birim kГјmesi Г§erir. ",
 			"lang":"tr"
 		},
 		{
-			"value":"Цей профайл містить повний набір модулів, необхідних для підтримки повного інтерфейсу створення WCM. ",
+			"value":"Р¦РµР№ РїСЂРѕС„Р°Р№Р» РјС–СЃС‚РёС‚СЊ РїРѕРІРЅРёР№ РЅР°Р±С–СЂ РјРѕРґСѓР»С–РІ, РЅРµРѕР±С…С–РґРЅРёС… РґР»СЏ РїС–РґС‚СЂРёРјРєРё РїРѕРІРЅРѕРіРѕ С–РЅС‚РµСЂС„РµР№СЃСѓ СЃС‚РІРѕСЂРµРЅРЅСЏ WCM. ",
 			"lang":"uk"
 		},
 		{
-			"value":"此概要文件具有所需的完整模块集来支持完整的“WCM 编写”体验。",
+			"value":"ж­¤ж¦‚и¦Ѓж–‡д»¶е…·жњ‰ж‰ЂйњЂзљ„е®Њж•ґжЁЎеќ—й›†жќҐж”ЇжЊЃе®Њж•ґзљ„вЂњWCM зј–е†™вЂќдЅ“йЄЊгЂ‚",
 			"lang":"zh"
 		},
 		{
-			"value":"這個設定檔具有支援完整 WCM 編寫體驗所需要的完整模組集。",
+			"value":"йЂ™еЂ‹иЁ­е®љжЄ”е…·жњ‰ж”ЇжЏґе®Њж•ґ WCM з·ЁеЇ«й«”й©—ж‰ЂйњЂи¦Ѓзљ„е®Њж•ґжЁЎзµ„й›†гЂ‚",
 			"lang":"zh_TW"
 		}
 	]
