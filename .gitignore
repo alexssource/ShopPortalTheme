@@ -1,0 +1,24 @@
+*.class
+
+# Package Files #
+*/target/
+*.jar
+*.war
+*.ear
+.idea
+*/*.iml
+.project
+*/.project
+.settings
+*/.settings
+.apt_generated
+*/.apt_generated
+.classpath
+*/.classpath
+.tern-project
+*/.tern-project
+.factorypath
+*/.factorypath
+*.iml
+
+

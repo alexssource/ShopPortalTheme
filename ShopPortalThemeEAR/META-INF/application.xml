@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/application_6.xsd" version="6">
+	<display-name>ShopPortalThemeEAR</display-name>
+	<module id="Module_1364991595932">
+		<web>
+			<web-uri>ShopPortalThemeDynamic.war</web-uri>
+			<context-root>ShopPortalThemeDynamic</context-root>
+		</web>
+	</module>
+	<module id="Module_1364991595933">
+		<web>
+			<web-uri>ShopPortalThemeStatic.war</web-uri>
+			<context-root>ShopPortalThemeStatic</context-root>
+		</web>
+	</module>
+</application>

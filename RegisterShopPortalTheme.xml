@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<request type="update" version="8.0.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="PortalConfig_8.0.0.xsd">
+    <portal action="locate">
+
+        <skin action="update" active="true" default="false" domain="rel"
+            objectid="ibm.portal.85Standard.ShopPortalTheme" uniquename="ibm.portal.85Standard.ShopPortalTheme"
+            resourceroot="ibm.portal.85Standard.ShopPortalTheme" context-root="/ShopPortalThemeStatic"
+            type="default">
+            <localedata locale="en">
+                <title>Shop Portal Theme - Standard</title>
+            </localedata>
+
+            <parameter name="com.ibm.portal.skintype" type="string"
+                update="set"><![CDATA[template]]></parameter>
+            <parameter name="com.ibm.portal.skin.template.ref" type="string"
+                update="set"><![CDATA[war:/ShopPortalThemeStatic/skins/Standard/]]></parameter>
+            <parameter name="com.ibm.portal.skin.template.file.name.html"
+                type="string" update="set"><![CDATA[skin.html]]></parameter>
+        </skin>
+
+        <skin action="update" active="true" default="false" domain="rel"
+            objectid="ibm.portal.85NoSkin.ShopPortalTheme" uniquename="ibm.portal.85NoSkin.ShopPortalTheme"
+            resourceroot="ibm.portal.85NoSkin.ShopPortalTheme" context-root="/ShopPortalThemeStatic"
+            type="default">
+            <localedata locale="en">
+                <title>Shop Portal Theme - NoSkin</title>
+            </localedata>
+
+            <parameter name="com.ibm.portal.skintype" type="string"
+                update="set"><![CDATA[template]]></parameter>
+            <parameter name="com.ibm.portal.skin.template.ref" type="string"
+                update="set"><![CDATA[war:/ShopPortalThemeStatic/skins/NoSkin/]]></parameter>
+            <parameter name="com.ibm.portal.skin.template.file.name.html"
+                type="string" update="set"><![CDATA[skin.html]]></parameter>
+        </skin>
+
+        <skin action="update" active="true" default="false" domain="rel"
+            objectid="ibm.portal.85Hidden.ShopPortalTheme" uniquename="ibm.portal.85Hidden.ShopPortalTheme"
+            resourceroot="ibm.portal.85Hidden.ShopPortalTheme" context-root="/ShopPortalThemeStatic"
+            type="default">
+            <localedata locale="en">
+                <title>Shop Portal Theme - Hidden</title>
+            </localedata>
+
+            <parameter name="com.ibm.portal.skintype" type="string"
+                update="set"><![CDATA[template]]></parameter>
+            <parameter name="com.ibm.portal.skin.template.ref" type="string"
+                update="set"><![CDATA[war:/ShopPortalThemeStatic/skins/Hidden/]]></parameter>
+            <parameter name="com.ibm.portal.skin.template.file.name.html"
+                type="string" update="set"><![CDATA[skin.html]]></parameter>
+        </skin>
+
+
+        <skin action="locate" domain="rel" objectid="ibm.portal.85Standard.ShopPortalTheme.objectID"
+            uniquename="ibm.portal.85Standard.ShopPortalTheme" />
+        <skin action="locate" domain="rel" objectid="ibm.portal.85NoSkin.ShopPortalTheme.objectID"
+            uniquename="ibm.portal.85NoSkin.ShopPortalTheme" />
+        <skin action="locate" domain="rel" objectid="ibm.portal.85Hidden.ShopPortalTheme.objectID"
+            uniquename="ibm.portal.85Hidden.ShopPortalTheme" />
+
+        <theme action="update" active="true" context-root="/ShopPortalThemeDynamic"
+            default="false" defaultskinref="ibm.portal.85Hidden.ShopPortalTheme.objectID"
+            domain="rel" resourceroot="dynamicSpots" uniquename="ibm.portal.shop.portal.theme8">
+            <localedata locale="en">
+                <title>Shop Portal Theme</title>
+            </localedata>
+
+            <allowed-skin skin="ibm.portal.85Standard.ShopPortalTheme.objectID"
+                update="set" />
+            <allowed-skin skin="ibm.portal.85NoSkin.ShopPortalTheme.objectID"
+                update="set" />
+            <allowed-skin skin="ibm.portal.85Hidden.ShopPortalTheme.objectID"
+                update="set" />
+
+            <parameter name="com.ibm.portal.theme.dnd.sources" type="string"
+                update="set"><![CDATA[ibmDndColumn:com.ibm.pb.dnd.layout.LayoutColumnSource:vertical,ibmDndRow:com.ibm.pb.dnd.layout.LayoutRowSource:horizontal]]></parameter>
+            <parameter name="com.ibm.portal.theme.aggregationmodes"
+                type="string" update="set"><![CDATA[ssa]]></parameter>
+            <parameter name="com.ibm.portal.layout.template.href"
+                type="string" update="set"><![CDATA[war:ShopPortalThemeStatic/themes/ShopPortalTheme/layout-templates/2ColumnLeft/]]></parameter>
+            <parameter name="com.ibm.portal.theme.template.ref" type="string"
+                update="set"><![CDATA[war:ShopPortalThemeStatic/themes/ShopPortalTheme/]]></parameter>
+            <parameter name="resourceaggregation.profile" type="string"
+                update="set"><![CDATA[profiles/profile_deferred.json]]></parameter>
+            <parameter name="com.ibm.portal.theme.hasBaseURL" type="string"
+                update="set"><![CDATA[true]]></parameter>
+        </theme>
+
+    </portal>
+</request>

@@ -1,0 +1,86 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.ibm.portal.theme.shop.portal</groupId>
+		<artifactId>ShopPortalTheme</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+		<relativePath>../</relativePath>
+	</parent>
+	<artifactId>ShopPortalThemeStatic</artifactId>
+	<packaging>war</packaging>
+	<build>
+		<sourceDirectory>src</sourceDirectory>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-war-plugin</artifactId>
+				<version>2.3</version>
+				<configuration>
+					<webXml>WebContent\WEB-INF\web.xml</webXml>
+					<warSourceDirectory>WebContent</warSourceDirectory>
+				</configuration>
+			</plugin>
+			<plugin>
+				<artifactId>maven-antrun-plugin</artifactId>
+				<executions>
+					<execution>
+						<phase>install</phase>
+						<configuration>
+							<tasks>
+								<copy todir="./WebContent/themes/ShopPortalTheme/css/" overwrite="true">
+									<fileset dir="../bootstrap/docs/assets/css/">
+										<include name="**bootstrap**.css"/>
+									</fileset>
+								</copy>
+								<copy todir="./WebContent/themes/ShopPortalTheme/js/" overwrite="true">
+									<fileset dir="../bootstrap/docs/assets/js/">
+										<include name="**bootstrap**.js"/>
+										<include name="**html5shiv**.js"/>
+										<include name="**jquery**.js"/>
+									</fileset>
+								</copy>
+								<copy todir="./WebContent/themes/ShopPortalTheme/img/" overwrite="true">
+									<fileset dir="../bootstrap/docs/assets/img/">
+										<include name="**glyphicons**.png"/>
+									</fileset>
+								</copy>
+								<copy todir="./WebContent/themes/ShopPortalTheme/fonts/" overwrite="true">
+									<fileset dir="../bootstrap/docs/assets/fonts/">
+										<include name="**"/>
+									</fileset>
+								</copy>
+								<copy todir="./WebContent/themes/ShopPortalTheme/ico/" overwrite="true">
+									<fileset dir="../bootstrap/docs/assets/ico/">
+										<include name="**"/>
+									</fileset>
+								</copy>
+								<copy todir="./WebContent/themes/ShopPortalTheme/css/" overwrite="true">
+									<fileset dir="../font-awesome/css/">
+										<include name="**font-awesome.min.css"/>
+									</fileset>
+								</copy>
+								<copy todir="./WebContent/themes/ShopPortalTheme/font/" overwrite="true">
+									<fileset dir="../font-awesome/font/">
+										<include name="**"/>
+									</fileset>
+								</copy>
+							</tasks>
+						</configuration>
+						<goals>
+							<goal>run</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.0</version>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+</project>
