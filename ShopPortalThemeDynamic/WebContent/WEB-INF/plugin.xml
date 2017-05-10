@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin id="wp.theme.themes.default85" name="8.5 Theme Modules" provider-name="IBM" version="1.0.0">
+<plugin id="wp.theme.themes.shopPortalTheme" name="ShopPortal Theme Modules" provider-name="alexssource" version="1.0.0">
     
     <extension id="shop_portal_theme_85_dynamic_spots" point="com.ibm.portal.resourceaggregator.module">
         <module id="shop_portal_theme_85_dynamic_spots">
